@@ -1,0 +1,8 @@
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\Inheritance\HInheritance\bin\Debug\HInheritance.exe.config
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\Inheritance\HInheritance\bin\Debug\HInheritance.exe
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\Inheritance\HInheritance\bin\Debug\HInheritance.pdb
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\Inheritance\HInheritance\obj\Debug\HInheritance.csproj.AssemblyReference.cache
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\Inheritance\HInheritance\obj\Debug\HInheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\Inheritance\HInheritance\obj\Debug\HInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\Inheritance\HInheritance\obj\Debug\HInheritance.exe
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\Inheritance\HInheritance\obj\Debug\HInheritance.pdb

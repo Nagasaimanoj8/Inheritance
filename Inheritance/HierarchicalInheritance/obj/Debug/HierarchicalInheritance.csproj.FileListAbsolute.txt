@@ -1,0 +1,8 @@
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\Inheritance\HierarchicalInheritance\bin\Debug\HierarchicalInheritance.exe.config
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\Inheritance\HierarchicalInheritance\bin\Debug\HierarchicalInheritance.exe
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\Inheritance\HierarchicalInheritance\bin\Debug\HierarchicalInheritance.pdb
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\Inheritance\HierarchicalInheritance\obj\Debug\HierarchicalInheritance.csproj.AssemblyReference.cache
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\Inheritance\HierarchicalInheritance\obj\Debug\HierarchicalInheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\Inheritance\HierarchicalInheritance\obj\Debug\HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\Inheritance\HierarchicalInheritance\obj\Debug\HierarchicalInheritance.exe
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\Inheritance\HierarchicalInheritance\obj\Debug\HierarchicalInheritance.pdb
